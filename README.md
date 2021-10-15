@@ -19,4 +19,4 @@ Todo esto va dirigido a los usuarios que se comportan de manera irrespetuosa, qu
 
 
  - **Presentación e instalación**: https://parzibyte.me/blog/2021/04/13/sistema-ventas-gratuito-windows/
- - **Descarga**: [32 bits](https://github.com/parzibyte/) | [64 bits](https://github.com/parzibyte/)
+ - **Descarga**: https://github.com/parzibyte/sublime_pos_3_releases/releases/latest
